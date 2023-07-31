@@ -1,0 +1,9 @@
+__pycache__
+.vscode
+*.pyc
+tools
+test.py
+virtualenv
+.DS_Store
+img/for_predict.jpg
+F74045034.txt
